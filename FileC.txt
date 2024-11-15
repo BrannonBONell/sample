@@ -1,2 +1,3 @@
 This is FileC
 Let's Make a Change
+This is for the squashing
